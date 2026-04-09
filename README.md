@@ -13,22 +13,11 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### 📊 GitHub Statistics
-
-<p align="left">
-  <img src="https://nice-readme.vercel.app/api?username=RayhanulSumon&show_icons=true&theme=dark" width="400" alt="Stats Card" />
-  
-  <img src="https://nice-readme.vercel.app/streak-stats?user=RayhanulSumon&theme=dark" width="400" alt="Streak Card" />
-</p>
-
-![Top Langs](https://nice-readme.vercel.app/api/top-langs?username=RayhanulSumon&layout=compact&theme=dark)
-
 ---
 
 ### 🚀 About Me
-- 🔭 I build modern web applications with **React**, **Next.js**, and **Laravel**.
-- ⚡ I enjoy customizing my **Ubuntu** environment and using **Zsh**.
+- 🔭 I build modern web applications with **React** and **Laravel**.
+- ⚡ I enjoy customizing my **Ubuntu** environment for maximum productivity.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RayhanulSumon&color=blue&style=flat-square" alt="Profile Views" />
