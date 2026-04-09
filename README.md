@@ -10,26 +10,24 @@
 ### ⚙️ Environment & Tools
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E9433F?style=for-the-badge&logo=ubuntu&logoColor=white) 
 ![Zsh](https://img.shields.io/badge/ZSH-%23000000.svg?style=for-the-badge&logo=zsh&logoColor=yellow) 
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### 📊 GitHub Statistics
 
 <p align="left">
-  <img src="https://nice-readme.vercel.app/stats?username=RayhanulSumon&theme=dark&show_icons=true" alt="Rayhanul's Stats" width="400" />
-  
-  <img src="https://nice-readme.vercel.app/streak-stats?user=RayhanulSumon&theme=dark" alt="Rayhanul's Streak" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RayhanulSumon&show_icons=true&theme=dark" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RayhanulSumon&theme=dark" width="400" />
 </p>
 
-![Top Langs](https://nice-readme.vercel.app/stats/top-langs?username=RayhanulSumon&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RayhanulSumon&layout=compact&theme=dark)
 
 ---
 
 ### 🚀 About Me
 - 🔭 I build modern web applications with **React** and **Laravel**.
 - ⚡ I enjoy customizing my **Ubuntu** environment for maximum productivity.
-- 📫 How to reach me: [Your Email Here]
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RayhanulSumon&color=blue&style=flat-square" alt="Profile Views" />
