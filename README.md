@@ -17,11 +17,12 @@
 ### 📊 GitHub Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RayhanulSumon&show_icons=true&theme=dark" alt="Rayhanul's Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RayhanulSumon&theme=dark" alt="Rayhanul's Streak" width="400" />
+  <img src="https://nice-readme.vercel.app/stats?username=RayhanulSumon&theme=dark&show_icons=true" alt="Rayhanul's Stats" width="400" />
+  
+  <img src="https://nice-readme.vercel.app/streak-stats?user=RayhanulSumon&theme=dark" alt="Rayhanul's Streak" width="400" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RayhanulSumon&layout=compact&theme=dark)
+![Top Langs](https://nice-readme.vercel.app/stats/top-langs?username=RayhanulSumon&layout=compact&theme=dark)
 
 ---
 
