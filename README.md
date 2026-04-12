@@ -17,16 +17,18 @@
 ### 📊 GitHub Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=RayhanulSumon&show_icons=true&theme=dark" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RayhanulSumon&theme=dark" width="400" />
+  <img src="https://github-readme-stats.shion.dev/api?username=RayhanulSumon&show_icons=true&theme=dark&cache_seconds=1800" width="400" alt="Stats Card" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RayhanulSumon&theme=dark" width="400" alt="Streak Card" />
 </p>
 
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs?username=RayhanulSumon&layout=compact&theme=dark&cache_seconds=1800)
 
 ---
 
 ### 🚀 About Me
-- 🔭 I build modern web applications with **React** and **Laravel**.
-- ⚡ I enjoy customizing my **Ubuntu** environment for maximum productivity.
+- 🔭 I build modern web applications with **React**, **Next.js**, and **Laravel**.
+- ⚡ I enjoy customizing my **Ubuntu** environment and using **Zsh**.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RayhanulSumon&color=blue&style=flat-square" alt="Profile Views" />
