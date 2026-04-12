@@ -14,20 +14,11 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-<p align="left">
-<img src="https://github-readme-stats.shion.dev/api?username=RayhanulSumon&show_icons=true&theme=dark&count_private=true&include_all_commits=true" width="400" alt="Stats Card" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RayhanulSumon&theme=dark" width="400" alt="Streak Card" />
-</p>
-
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs?username=RayhanulSumon&layout=compact&theme=dark&count_private=true)
+### 🚀 About Me
+- 🔭 I am a developer focused on building modern web applications with **React**, **Next.js**, and **Laravel**.
+- ⚡ I enjoy customizing my **Ubuntu** environment for a smooth workflow.
 
 ---
-
-### 🚀 About Me
-- 🔭 I build modern web applications with **React**, **Next.js**, and **Laravel**.
-- ⚡ I enjoy customizing my **Ubuntu** environment and using **Zsh**.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RayhanulSumon&color=blue&style=flat-square" alt="Profile Views" />
