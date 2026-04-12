@@ -46,4 +46,4 @@
 ---
 
 ### 🐍 Contribution Snake
-![snake ascii art](https://github-contribution-grid-snake.vercel.app/api/github-contribution-grid-snake.svg?palette=github-dark)
+![Snake Animation](https://raw.githubusercontent.com/RayhanulSumon/RayhanulSumon/output/github-contribution-grid-snake-dark.svg)
