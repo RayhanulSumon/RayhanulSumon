@@ -17,12 +17,11 @@
 ### 📊 GitHub Statistics
 
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=RayhanulSumon&show_icons=true&theme=dark&cache_seconds=1800" width="400" alt="Stats Card" />
-  
+  <img src="https://github-readme-stats.shion.dev/api?username=RayhanulSumon&show_icons=true&theme=dark&count_private=true&include_all_commits=true&cache_seconds=1800" width="400" alt="Stats Card" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RayhanulSumon&theme=dark" width="400" alt="Streak Card" />
 </p>
 
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs?username=RayhanulSumon&layout=compact&theme=dark&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.shion.dev/api/top-langs?username=RayhanulSumon&layout=compact&theme=dark&count_private=true)
 
 ---
 
