@@ -25,6 +25,3 @@
 - 🔭 I build modern web applications with **React**, **Next.js**, and **Laravel**.
 - ⚡ I enjoy customizing my **Ubuntu** environment for maximum productivity.
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RayhanulSumon&color=blue&style=flat-square" alt="Profile Views" />
-</p>
