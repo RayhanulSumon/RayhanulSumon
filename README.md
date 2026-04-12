@@ -14,11 +14,16 @@
 
 ---
 
-### 🚀 About Me
-- 🔭 I am a developer focused on building modern web applications with **React**, **Next.js**, and **Laravel**.
-- ⚡ I enjoy customizing my **Ubuntu** environment for a smooth workflow.
+### 📊 GitHub Activity
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RayhanulSumon&theme=dark" alt="Rayhanul's Streak" />
+</p>
 
 ---
+
+### 🚀 About Me
+- 🔭 I build modern web applications with **React**, **Next.js**, and **Laravel**.
+- ⚡ I enjoy customizing my **Ubuntu** environment for maximum productivity.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RayhanulSumon&color=blue&style=flat-square" alt="Profile Views" />
