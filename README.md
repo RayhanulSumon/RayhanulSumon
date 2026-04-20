@@ -1,12 +1,14 @@
 # Hi there 👋 I'm Rayhanul Sumon
+
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=RayhanulSumon&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
 ### 🚀 About Me
-- 🔭 I’m currently building modern web applications with **React**, **Next.js**, and **Laravel**.
-- ⚡ I enjoy customizing my **Ubuntu** environment for maximum productivity.
-- 💬 Ask me about **Frontend Performance** or **Backend Architecture**.
+- 🔭 **Full-Stack Developer** specializing in building modern web applications with **React**, **Next.js**, and **Laravel**.
+- ⚡ **Environment Enthusiast** who loves optimizing **Ubuntu** & **Zsh** for a peak productivity workflow.
+- 💬 **Let's Talk** about frontend performance, backend architecture, or scalable system design.
+- 📧 **Get in touch:** [rayhanulsumon@gmail.com](mailto:rayhanulsumon@gmail.com)
 
 <br/>
 
@@ -44,7 +46,7 @@
 
 ### 📊 GitHub Activity
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RayhanulSumon&theme=dark" width="80%" alt="Rayhanul's Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RayhanulSumon&theme=dark" width="75%" alt="Rayhanul's Streak" />
 
 <br/>
 
